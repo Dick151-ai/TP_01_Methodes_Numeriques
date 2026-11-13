@@ -3,7 +3,7 @@
 ##  Présentation du projet
 Ce dépôt contient les travaux pratiques de Méthodes Numériques 2. 
 L'objectif est d'auditer la consommation d'une pompe à l'aide de méthodes d'intégration numérique (méthode des trapèzes et méthode de Simpson) implémentées sous Scilab.
-Nous avons utilisés comme outils: YouTube, IA et Google 
+Nous avons utilisés des outils comme : YouTube, Google et l'IA pour les approfondissements 
 
 ## Membres du groupe
 [ AMEGAN Toutou Dick-Ollic]
