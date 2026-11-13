@@ -1,5 +1,5 @@
 // TP1 MN2 -- application etudiante. 
-// Placer ce fichier et TP_01_Outils_Quadrature.sce dans le meme dossier.
+// Membres du groupe : AMEGAN Dick-Ollic, COULIBALY Kanoufing, YENGA Pivoine
 clear;
 exec("TP_01_Outils_Quadrature.sce", -1);
 
